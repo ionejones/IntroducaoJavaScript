@@ -1,3 +1,3 @@
 # Introdução ao JavaScript
-## Este projetinho é fruto de alguns exercícios do curso de JanaScript do BootCamp sanyander
+## Este projetinho é fruto de alguns exercícios do curso de JavaScript do BootCamp santander
 ## Ele incrementa e decrementaum contador
