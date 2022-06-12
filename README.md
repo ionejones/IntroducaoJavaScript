@@ -1,3 +1,3 @@
 # Introdução ao JavaScript
 ## Este projetinho é fruto de alguns exercícios do curso de JavaScript do BootCamp santander
-## Ele incrementa e decrementaum contador
+## Ele incrementa e decrementa um contador
